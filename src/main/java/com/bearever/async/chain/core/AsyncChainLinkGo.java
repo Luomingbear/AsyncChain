@@ -8,7 +8,7 @@ import androidx.fragment.app.Fragment;
 /**
  * 异步链的包装类，用来控制调用者可以访问的方法，主要目的是执行了`error*`方法之后就只能执行`go*`方法。
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/8/5
  **/
 public class AsyncChainLinkGo {

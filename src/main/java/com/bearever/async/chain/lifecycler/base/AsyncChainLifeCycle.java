@@ -5,7 +5,7 @@ import java.util.List;
 /**
  * 生命周期接口类
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/7/24
  **/
 public interface AsyncChainLifeCycle {

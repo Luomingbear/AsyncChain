@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 使用Fragment实现的生命周期实现，寄主页面不存在的时候生命周期就结束了
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/7/24
  **/
 public class SupportFragmentLifeCycle extends Fragment implements AsyncChainLifeCycle {

@@ -3,7 +3,7 @@ package com.bearever.async.chain.core;
 /**
  * 异步操作执行错误的回调接口，用于对错误进行处理，一旦报错，异步链就停止运行了，不会继续下去。
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/8/5
  **/
 public abstract class AsyncChainErrorCallback {

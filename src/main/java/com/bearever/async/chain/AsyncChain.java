@@ -7,7 +7,7 @@ import com.bearever.async.chain.core.AsyncChainRunnable;
 /**
  * 一部链式调用的入口类
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/7/22
  **/
 public class AsyncChain {

@@ -3,7 +3,7 @@ package com.bearever.async.chain.core;
 /**
  * AsyncChainRunnable 的包装类
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/8/2
  **/
 

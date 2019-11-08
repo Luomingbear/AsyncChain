@@ -5,7 +5,7 @@ import java.util.UUID;
 /**
  * 异步操作的接口
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/7/22
  **/
 public abstract class AsyncChainRunnable<LAST_RESULT, NEXT_RESULT> {

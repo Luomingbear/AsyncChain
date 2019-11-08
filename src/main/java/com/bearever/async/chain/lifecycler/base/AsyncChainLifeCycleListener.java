@@ -6,7 +6,7 @@ import android.app.Activity;
 /**
  * 生命周期状态的基类
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/7/24
  **/
 public interface AsyncChainLifeCycleListener {

@@ -3,7 +3,7 @@ package com.bearever.async.chain.core;
 /**
  * 异步操作Runnable的行为控制类
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/8/2
  **/
 public class AsyncChainTask<LAST_RESULT, NEXT_RESULT> {

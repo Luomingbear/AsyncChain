@@ -36,7 +36,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 /**
  * 异步链式的流程控制类
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/7/23
  **/
 @TargetApi(11)

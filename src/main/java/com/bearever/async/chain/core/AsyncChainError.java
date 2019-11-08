@@ -4,7 +4,7 @@ package com.bearever.async.chain.core;
 /**
  * 错误信息类
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/8/2
  **/
 public class AsyncChainError {

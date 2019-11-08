@@ -10,7 +10,7 @@ import java.util.List;
 /**
  * app运行期间都存在的生命周期实现
  *
- * @author :  malong    luomingbear@163.com
+ * @author :  luoming    luomingbear@163.com
  * @date :  2019/7/24
  **/
 public class ApplicationLifeCycle implements AsyncChainLifeCycle {
